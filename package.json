@@ -1,0 +1,22 @@
+{
+  "name": "nodechallenge",
+  "version": "1.0.0",
+  "description": "colors",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "create-html": "^4.1.0",
+    "inquirer": "^12.3.0"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "nodechallenge"
+  }
+}
